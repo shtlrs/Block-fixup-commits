@@ -1,0 +1,8 @@
+name: CI
+
+on:
+  pull_request:
+
+jobs:
+  block-fixup-commits:
+    uses:shtlrs/.github/.github/workflows/block-fixup-commits.yaml
