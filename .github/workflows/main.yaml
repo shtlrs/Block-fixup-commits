@@ -5,4 +5,4 @@ on:
 
 jobs:
   block-fixup-commits:
-    uses: shtlrs/.github/.github/workflows/block-fixup-commits.yaml
+    uses: shtlrs/.github/.github/workflows/block-fixup-commits.yaml@main
